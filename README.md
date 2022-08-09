@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pacifiquei
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Applied Machine Learning.
 - 💞️ I’m looking to collaborate on different AI projects.
 - 📫 How to reach me: https://www.pacifiqueiradukunda.com/
 
